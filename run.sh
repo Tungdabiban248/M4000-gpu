@@ -1,1 +1,1 @@
-wget https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.53/lolMiner_v1.53_Lin64.tar.gz && tar -xzvf lolMiner_v1.53_Lin64.tar.gz && cd 1.53 && chmod +x lolMiner && ./lolMiner --algo ETHASH --pool stratum+tcp://eth.ss.poolin.one:443 --user tungetherum.001 --pass 123
+wget https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.53/lolMiner_v1.53_Lin64.tar.gz && tar -xzvf lolMiner_v1.53_Lin64.tar.gz && cd 1.53 && chmod +x lolMiner && ./lolMiner --algo ETHASH --pool us1.ethermine.org:14444 --user 0xb0d2e5fDE47863046309710be5B58D499e6380Be
